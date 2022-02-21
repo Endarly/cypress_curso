@@ -1,0 +1,32 @@
+Curso de Cypress
+
+1. npm init => Instala Package.json
+
+2. npm install cypress --save-dev  ==> Instalar Cypress 
+
+3. Npx instalación https://www.npmjs.com/package/npx
+    3.1  npm install -g npx ==> instalar la libreria npx libreria muy potente 
+    3.2  npx cypress install --force  ==> forzar la instalación
+
+4. node_modules\.bin\cypress open   ==>  se incia el sistema de cypres, abre la consola de cypress 
+
+5. npx cypress open ==> abre la consola del cypress también 
+
+6. ctrl + c ==> para parar la consola 
+
+7. https://demoqa.com/  => página de para ver los elementos entre otras... 
+
+8. https://developer.mozilla.org/es/docs/Web/JavaScript => Página oficila de JavaScript
+
+9. https://jsfiddle.net/  => Editor para JavaScript (Mini curso de JavaScript)
+
+10. /// <reference types="Cypress" />     ==> En los ,js se coloca
+
+11. https://docs.cypress.io/ => página de cypress
+
+12. npm install -D cypress-xpath ==> sirve para poder utilizar los xpath
+
+13. require('cypress-xpath')  ==> para poder utilizar los xpath también, se coloca al inicio de los .js
+
+14. extensiones recomenadadas para los xpath  (TruePath, ChroPath, Xapth Helper)
+ 
